@@ -6,6 +6,7 @@ public class Car {
 
     public Car(String brand){
         this.brand= brand;
+
     }
 
     public Car(String brand, String model){
